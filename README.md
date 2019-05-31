@@ -8,6 +8,21 @@ reading paper
 |code||
 |note||
 
+### Dynamic Graph CNN for Learning on Point Clouds
+
+|paper|[1801.07829](https://arxiv.org/abs/1801.07829)|
+|:-:|:-:|
+|code||
+|note||
+
+
+### Relational inductive biases, deep learning, and graph networks
+
+|paper|[1806.01261](https://arxiv.org/abs/1806.01261)|
+|:-:|:-:|
+|code|[]()|
+|note||
+
 ### Fully Convolutional Networks for Semantic Segmentation
 
 |paper|[1411.4038](https://arxiv.org/abs/1411.4038)|
@@ -19,7 +34,7 @@ reading paper
 
 |paper|[1812.05784](https://arxiv.org/abs/1812.05784)|
 |:-:|:-:|
-|code||
+|code|[https://github.com/nutonomy/second.pytorch](https://github.com/nutonomy/second.pytorch)|
 |note| - |
 
 ### Semi-Supervised Classification with Graph Convolutional Networks
