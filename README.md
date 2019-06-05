@@ -8,13 +8,6 @@ reading paper
 |code||
 |note||
 
-### Dynamic Graph CNN for Learning on Point Clouds
-
-|paper|[1801.07829](https://arxiv.org/abs/1801.07829)|
-|:-:|:-:|
-|code||
-|note||
-
 
 ### Relational inductive biases, deep learning, and graph networks
 
@@ -28,7 +21,7 @@ reading paper
 |paper|[1411.4038](https://arxiv.org/abs/1411.4038)|
 |:-:|:-:|
 |code|[https://github.com/uwuneng/tensorflow-fcn](https://github.com/uwuneng/tensorflow-fcn)|
-|note| [https://www.zybuluo.com/usiege/note/1485856](https://www.zybuluo.com/usiege/note/1485856，) |
+|note| [https://www.zybuluo.com/usiege/note/1485856](https://www.zybuluo.com/usiege/note/1485856) |
 
 ### PointPillars: Fast Encoders for Object Detection from Point Clouds
 
@@ -37,12 +30,19 @@ reading paper
 |code|[https://github.com/nutonomy/second.pytorch](https://github.com/nutonomy/second.pytorch)|
 |note| - |
 
+### Dynamic Graph CNN for Learning on Point Clouds
+
+|paper|[1801.07829](https://arxiv.org/abs/1801.07829)|
+|:-:|:-:|
+|code||
+|note||
+
 ### Semi-Supervised Classification with Graph Convolutional Networks
 
 |paper|[1609.02907](https://arxiv.org/abs/1609.02907)|
 |:-:|:-:|
-|code|[https://github.com/uwuneng/gcn](https://github.com/uwuneng/gcn)|
-|note| - |
+|code|[https://github.com/uwuneng/gcn](https://github.com/uwuneng/gcn)<br>https://github.com/uwuneng/pygcn|
+|note| [https://www.zybuluo.com/usiege/note/1481410](https://www.zybuluo.com/usiege/note/1481410) |
 
 
 ### nuScenes: A multimodal dataset for autonomous driving
