@@ -11,7 +11,7 @@ reading paper
 
 |paper|[1812.05784](https://arxiv.org/abs/1812.05784)|
 |:-:|:-:|
-|code|[https://github.com/nutonomy/second.pytorch](fn)|
+|code|[https://github.com/nutonomy/second.pytorch](https://github.com/nutonomy/second.pytorch)|
 |note| - |
 
 ### nuScenes: A multimodal dataset for autonomous driving
